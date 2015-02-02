@@ -1,0 +1,7 @@
+.ui-accordion{width:167;float:left;height:auto;box-shadow: 1px 1px 3px rgba(0,0,0,0.1); z-index:55;
+-webkit-animation: fadee 0.5s ease;
+-moz-animation: fadee 0.5s ease;
+-ms-animation: fadee 0.5s ease;
+-webkit-box-shadow	: 0px 0px 4px #666;
+-moz-box-shadow		: 0px 0px 4px #666;
+box-shadow			: 0px 0px 4px #666;}.ui-accordion .ui-accordion-header{text-align:left;cursor:pointer;position:relative;margin-top:0;zoom:1}.ui-accordion .ui-accordion-li-fix{display:inline}.ui-accordion .ui-accordion-header-active{border-bottom:0!important}.ui-accordion .ui-accordion-header a{display:block;font-size:1em;padding:1 1 1 1}.ui-accordion-icons .ui-accordion-header a{padding-left:2.2em}.ui-accordion .ui-accordion-header .ui-icon{position:absolute;left:.5em;top:50%;margin-top:-8px}.ui-accordion .ui-accordion-content{padding:0;border-top:0;margin-top:-2px;position:relative;top:1px;margin-bottom:0px;overflow:auto;display:none;zoom:1}.ui-accordion .ui-accordion-content-active{display:block}
